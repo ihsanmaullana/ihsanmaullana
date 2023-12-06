@@ -1,9 +1,9 @@
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsanmaullana&show_icons=true&locale=en" alt="ihsanmaulanatech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsanmaullana&show_icons=true&locale=en" alt="ihsanmaullana" /></p>
 
 <h2>My Social Media</h2>
 
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/ihsan-maulana-7a1557288)
-[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/ihsanmaulana.js/)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/ihsanmaulana.dev/)
 [![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/@ihsanmaullana)
 
 <h2>Hi 👋, I'm Ihsan Maulana</h2>
