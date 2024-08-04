@@ -2,9 +2,9 @@
 
 <h2>My Social Media</h2>
 
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/ihsan-maulana-7a1557288)
-[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/ihsanmaulana.dev/)
-[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/@ihsanmaullana)
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/ihsanmaullana)
+[![Instagram](https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png)](https://www.instagram.com/maulanaihsan.dev/)
+[![Youtube](https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-48.png)](https://www.youtube.com/@maulanaihsan-dev)
 
 <h2>Hi 👋, I'm Ihsan Maulana</h2>
 <p align="justify">Hello there! 👋 I'm Ihsan Maulana, For me, coding isn't just about syntax; it's a form of artistic expression. I thrive on transforming concepts into tangible software experiences that leave a lasting impact. Whether it's a sleek and responsive frontend or a robust and efficient backend, I bring my A-game to every project. I believe in the power of collaboration and continuous learning, and I'm excited to contribute my skills to projects that push the boundaries of innovation.</p>
