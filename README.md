@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Ihsan Maulana</h1>
-<h3 align="center">Fintech Engineer in Progress | Software + Finance</h3>
+<h3 align="center">Fintech Software Engineer | Web & Mobile Apps • AI • Blockchain | Accessibility Advocate</h3>
 
 <p align="center">
   💡 Building solutions at the intersection of <b>Technology & Finance</b> <br>
@@ -68,13 +68,41 @@
     </a>
   </div>
 
+  <!-- Project 4 -->
+  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:320px; max-width: 300px;">
+    <h3>🔹 <a href="https://github.com/ihsanmaullana/fraud-detection">Fraud Detection System</a></h3>
+    <p>ML-powered fraud detection for transactions</p>
+    <ul>
+      <li>Detects anomalies in real-time payments</li>
+      <li>Scalable pipeline with FastAPI</li>
+      <li>Explainable AI reports for compliance</li>
+    </ul>
+    <a href="https://github.com/ihsanmaullana/fraud-detection">
+      <img src="https://img.shields.io/badge/View_Repo-red?style=for-the-badge&logo=github" />
+    </a>
+  </div>
+
+  <!-- Project 5 -->
+  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:320px; max-width: 300px;">
+    <h3>🔹 <a href="https://github.com/ihsanmaullana/robo-advisor">Robo-Advisor</a></h3>
+    <p>AI-driven portfolio management tool</p>
+    <ul>
+      <li>Suggests portfolios based on risk profile</li>
+      <li>Automated rebalancing & simulations</li>
+      <li>Supports stocks, ETFs, and crypto</li>
+    </ul>
+    <a href="https://github.com/ihsanmaullana/robo-advisor">
+      <img src="https://img.shields.io/badge/View_Repo-purple?style=for-the-badge&logo=github" />
+    </a>
+  </div>
+
 </div>
 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python 🐍 | JavaScript ⚡  
-- **Frameworks:** FastAPI, Django, Node.js, React, Next.js  
+- **Languages:** Python 🐍 | JavaScript ⚡ | Java | Kotlin  
+- **Frameworks:** FastAPI, Django, Node.js, React, Next.js, React Native  
 - **Databases:** PostgreSQL, MongoDB, MySQL  
 - **Finance & Data:** Pandas, NumPy, scikit-learn, Trading APIs (Binance, Alpha Vantage)  
 - **DevOps & Tools:** Docker, GitHub Actions, AWS  
