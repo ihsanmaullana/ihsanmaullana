@@ -1,33 +1,25 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ihsanmaullana/ihsanmaullana/main/assets/fintech-banner.gif" alt="Fintech Engineer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ihsanmaullana/ihsanmaullana/main/assets/fintech-banner.gif" alt="Fintech Journey Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ihsan Maulana</h1>
-<h3 align="center">Fintech Software Engineer | Web & Mobile Apps • AI • Blockchain | Accessibility Advocate</h3>
+<h3 align="center">Aspiring Fintech Engineer | Low Vision Learner | Sharing My Journey in Tech & Finance</h3>
 
 <p align="center">
-  💡 Building solutions at the intersection of <b>Technology & Finance</b> <br>
-  🚀 Passionate about <b>AI, trading systems, and digital banking</b> <br>
-  🌍 Open to collaboration on fintech projects that impact real-world finance  
+  🌍 Documenting my 1000-day journey to become a <b>Fintech Engineer</b> <br>
+  💡 Exploring <b>AI, Blockchain, Trading Systems, and Digital Banking</b> <br>
+  🎥 Sharing not just results, but also the <b>process, errors, and lessons</b>  
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ihsanmaullana&show_icons=true&theme=tokyonight" alt="ihsanmaullana stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsanmaullana&theme=tokyonight" alt="streak" />
-</p>
-
----
-
-## 🚀 Featured Fintech Projects  
+## 🚀 Featured Fintech Journey Projects  
 
 <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
 
   <!-- Project 1 -->
-  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:320px; max-width: 300px;">
+  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:330px; max-width: 320px;">
     <h3>🔹 <a href="https://github.com/ihsanmaullana/ai-expense-tracker">AI Expense Tracker</a></h3>
     <p>Smart personal finance app powered by AI</p>
     <ul>
@@ -41,13 +33,13 @@
   </div>
 
   <!-- Project 2 -->
-  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:320px; max-width: 300px;">
-    <h3>🔹 <a href="https://github.com/ihsanmaullana/trading-dashboard">Trading Super Dashboard</a></h3>
-    <p>A mini Bloomberg Terminal for personal use</p>
+  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:330px; max-width: 320px;">
+    <h3>🔹 <a href="https://github.com/ihsanmaullana/trading-dashboard">Trading Dashboard v2</a></h3>
+    <p>A personal Bloomberg-like terminal</p>
     <ul>
-      <li>Real-time stock & crypto prices</li>
-      <li>Virtual trading simulator</li>
-      <li>Portfolio & risk metrics</li>
+      <li>Real-time stocks & crypto data</li>
+      <li>Virtual trading simulator & risk metrics</li>
+      <li>Portfolio analytics & visualization</li>
     </ul>
     <a href="https://github.com/ihsanmaullana/trading-dashboard">
       <img src="https://img.shields.io/badge/View_Repo-green?style=for-the-badge&logo=github" />
@@ -55,39 +47,25 @@
   </div>
 
   <!-- Project 3 -->
-  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:320px; max-width: 300px;">
-    <h3>🔹 <a href="https://github.com/ihsanmaullana/voice-banking-assistant">Accessible Voice Banking Assistant</a></h3>
-    <p>Inclusive digital banking app designed for the blind community</p>
+  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:330px; max-width: 320px;">
+    <h3>🔹 <a href="https://github.com/ihsanmaullana/fraud-detection">Fraud Detection System v3</a></h3>
+    <p>Real-time anomaly detection for payments</p>
     <ul>
-      <li>Voice-only navigation with screen reader support</li>
-      <li>Check balance, transactions, and bills via voice</li>
-      <li>Text-to-speech financial updates</li>
-    </ul>
-    <a href="https://github.com/ihsanmaullana/voice-banking-assistant">
-      <img src="https://img.shields.io/badge/View_Repo-orange?style=for-the-badge&logo=github" />
-    </a>
-  </div>
-
-  <!-- Project 4 -->
-  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:320px; max-width: 300px;">
-    <h3>🔹 <a href="https://github.com/ihsanmaullana/fraud-detection">Fraud Detection System</a></h3>
-    <p>ML-powered fraud detection for transactions</p>
-    <ul>
-      <li>Detects anomalies in real-time payments</li>
-      <li>Scalable pipeline with FastAPI</li>
-      <li>Explainable AI reports for compliance</li>
+      <li>Streaming pipeline with Kafka & FastAPI</li>
+      <li>Scalable for millions of transactions</li>
+      <li>Alert system & explainable AI reports</li>
     </ul>
     <a href="https://github.com/ihsanmaullana/fraud-detection">
       <img src="https://img.shields.io/badge/View_Repo-red?style=for-the-badge&logo=github" />
     </a>
   </div>
 
-  <!-- Project 5 -->
-  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:320px; max-width: 300px;">
-    <h3>🔹 <a href="https://github.com/ihsanmaullana/robo-advisor">Robo-Advisor</a></h3>
+  <!-- Project 4 -->
+  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:330px; max-width: 320px;">
+    <h3>🔹 <a href="https://github.com/ihsanmaullana/robo-advisor">Robo Advisor v2</a></h3>
     <p>AI-driven portfolio management tool</p>
     <ul>
-      <li>Suggests portfolios based on risk profile</li>
+      <li>Risk-based portfolio recommendations</li>
       <li>Automated rebalancing & simulations</li>
       <li>Supports stocks, ETFs, and crypto</li>
     </ul>
@@ -96,16 +74,88 @@
     </a>
   </div>
 
+  <!-- Project 5 -->
+  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:330px; max-width: 320px;">
+    <h3>🔹 <a href="https://github.com/ihsanmaullana/mobile-fintech-app">Mobile Fintech App v2</a></h3>
+    <p>All-in-one fintech super app</p>
+    <ul>
+      <li>Banking, trading, robo advisor in one app</li>
+      <li>AI-powered predictions & voice assistant</li>
+      <li>Built with React Native & FastAPI backend</li>
+    </ul>
+    <a href="https://github.com/ihsanmaullana/mobile-fintech-app">
+      <img src="https://img.shields.io/badge/View_Repo-orange?style=for-the-badge&logo=github" />
+    </a>
+  </div>
+
+  <!-- Project 6 -->
+  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:330px; max-width: 320px;">
+    <h3>🔹 <a href="https://github.com/ihsanmaullana/blockchain-openbanking">Blockchain & Open Banking Project</a></h3>
+    <p>Bridging DeFi and traditional finance</p>
+    <ul>
+      <li>Smart contract banking + stablecoin payments</li>
+      <li>DeFi lending & token swaps</li>
+      <li>Multi-bank API aggregator (PSD2-ready)</li>
+    </ul>
+    <a href="https://github.com/ihsanmaullana/blockchain-openbanking">
+      <img src="https://img.shields.io/badge/View_Repo-teal?style=for-the-badge&logo=github" />
+    </a>
+  </div>
+
+  <!-- Project 7 -->
+  <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:330px; max-width: 320px;">
+    <h3>🔹 <a href="https://github.com/ihsanmaullana/global-fintech-platform">Unified Global Fintech Platform</a></h3>
+    <p>Final integration of all projects</p>
+    <ul>
+      <li>Banking, trading, expense, fraud, robo, AI</li>
+      <li>Blockchain & Open Banking integrated</li>
+      <li>Accessible, scalable & global-ready platform</li>
+    </ul>
+    <a href="https://github.com/ihsanmaullana/global-fintech-platform">
+      <img src="https://img.shields.io/badge/View_Repo-black?style=for-the-badge&logo=github" />
+    </a>
+  </div>
+
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python 🐍 | JavaScript ⚡ | Java | Kotlin  
-- **Frameworks:** FastAPI, Django, Node.js, React, Next.js, React Native  
-- **Databases:** PostgreSQL, MongoDB, MySQL  
-- **Finance & Data:** Pandas, NumPy, scikit-learn, Trading APIs (Binance, Alpha Vantage)  
-- **DevOps & Tools:** Docker, GitHub Actions, AWS  
+## 🛠️ Tech Stack  
+
+Here are the tools, languages, and frameworks I’ve been learning and using throughout my fintech journey:  
+
+- **Programming Languages**  
+  Python 🐍 · JavaScript ⚡ · TypeScript · Java · Kotlin  
+
+- **Backend & APIs**  
+  FastAPI · Django · Node.js · Express.js · NestJS  
+
+- **Frontend & Mobile**  
+  React · Next.js · React Native  
+
+- **Databases & Storage**  
+  PostgreSQL · MongoDB · MySQL · Redis  
+
+- **Finance & AI/ML**  
+  Pandas · NumPy · scikit-learn · TensorFlow · PyTorch  
+  Trading APIs (Binance, Alpha Vantage, Yahoo Finance)  
+
+- **Cloud & DevOps**  
+  Docker · Kubernetes · GitHub Actions · AWS · GCP  
+
+- **Blockchain & Security**  
+  Solidity · Web3.js · Hardhat · Metamask · OAuth2 · JWT  
+
+- **Accessibility & Compliance**  
+  Voice Banking APIs · Text-to-Speech · KYC/AML Systems · GDPR-ready tools  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ihsanmaullana&show_icons=true&theme=tokyonight" alt="ihsanmaullana stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihsanmaullana&theme=tokyonight" alt="streak" />
+</p>
 
 ---
 
