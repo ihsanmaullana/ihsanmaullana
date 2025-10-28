@@ -4,13 +4,13 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Ihsan Maulana</h1>
-<h3 align="center">Backend Engineer 🚀 | Java & Python | AI/ML in Fintech Systems | Low Vision in Tech</h3>
+<h3 align="center">Backend Engineer 🚀 | Java & Python | AI/ML in Fintech Systems | Blind Developer</h3>
 
 <p align="center">
   🏦 Backend-focused engineer specialized in <b>Fintech systems</b> <br>
   ⚙️ Expert in <b>Java Spring Boot</b> and <b>Python backend development</b> <br>
   🤖 Skilled in <b>AI/ML integration</b> for intelligent financial platforms <br>
-  🌍 Low Vision in Tech, High Vision for Innovation ✨  
+  💡 Blind Developer — proving that vision is more than what we see ✨  
 </p>
 
 ---
@@ -53,8 +53,12 @@
 
 ## 🧠 About Me  
 
-I'm a **Backend Engineer** specializing in **Fintech systems**, passionate about building **secure, high-performance financial applications** using **Java Spring Boot** and **Python**.  
-I also have a strong foundation in **AI & Machine Learning**, enabling me to develop **intelligent backend systems** such as fraud detection, transaction scoring, and risk analysis.
+I’m a **Backend Engineer** specializing in **Fintech systems**, with deep expertise in **Java Spring Boot** and **Python backend development**.  
+I build **secure, scalable, and intelligent financial platforms**, often integrating **AI/ML models** for fraud detection, transaction scoring, and real-time analysis.  
+
+As a **Blind Developer**, I see technology as a bridge, not a barrier. My perspective drives me to design systems that are inclusive, efficient, and reliable — proving that true vision comes from how we think, not just what we see.  
+
+Currently, I’m focused on creating **AI-powered backend services** and **data-centric fintech solutions**, transforming complex architectures into smarter and safer digital finance systems.  
 
 ---
 
