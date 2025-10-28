@@ -1,14 +1,15 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ihsanmaullana/ihsanmaullana/main/assets/fintech-banner.gif" alt="Fraud & Backend Engineer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/ihsanmaullana/ihsanmaullana/main/assets/fintech-banner.gif" alt="Fintech Backend Engineer Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Ihsan Maulana</h1>
-<h3 align="center">Fraud Detection & Backend Engineer 🚀 | AI/ML • Fintech Security • Java Spring Boot | Low Vision in Tech</h3>
+<h3 align="center">Backend Engineer 🚀 | Java & Python | AI/ML in Fintech Systems | Low Vision in Tech</h3>
 
 <p align="center">
-  🔐 Specializing in <b>AI-powered Fraud Detection</b> & <b>Backend Engineering</b> <br>
-  💡 Focused on building <b>secure, real-time financial systems</b> <br>
+  🏦 Backend-focused engineer specialized in <b>Fintech systems</b> <br>
+  ⚙️ Expert in <b>Java Spring Boot</b> and <b>Python backend development</b> <br>
+  🤖 Skilled in <b>AI/ML integration</b> for intelligent financial platforms <br>
   🌍 Low Vision in Tech, High Vision for Innovation ✨  
 </p>
 
@@ -20,12 +21,12 @@
 
   <!-- Project 1 -->
   <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:320px; max-width: 340px;">
-    <h3>🔹 <a href="https://github.com/ihsanmaullana/fraud-detection">Fraud Detection System</a></h3>
-    <p>AI/ML-powered fraud detection for banking transactions</p>
+    <h3>🔹 <a href="https://github.com/ihsanmaullana/fraud-detection">AI-Based Fraud Detection System</a></h3>
+    <p>End-to-end fraud detection system built for financial transactions</p>
     <ul>
       <li>Real-time anomaly detection pipeline</li>
       <li>Kafka + FastAPI microservices</li>
-      <li>Explainable AI (XAI) reports</li>
+      <li>Explainable AI (XAI) reports for transparency</li>
     </ul>
     <a href="https://github.com/ihsanmaullana/fraud-detection">
       <img src="https://img.shields.io/badge/View_Repo-red?style=for-the-badge&logo=github" />
@@ -35,11 +36,11 @@
   <!-- Project 2 -->
   <div style="flex:1; border:1px solid #444; border-radius:12px; padding:15px; min-height:320px; max-width: 340px;">
     <h3>🔹 <a href="https://github.com/ihsanmaullana/banking-app">Banking App (Java + Python)</a></h3>
-    <p>Core banking system integrated with fraud detection</p>
+    <p>Core banking backend integrated with AI microservice</p>
     <ul>
-      <li>Java Spring Boot backend for secure transactions</li>
-      <li>Python AI microservice for fraud detection</li>
-      <li>Admin dashboard with fraud alerts & compliance</li>
+      <li>Secure transaction system using Java Spring Boot</li>
+      <li>AI module (Python) for fraud detection & insights</li>
+      <li>Real-time admin dashboard with alerts & logs</li>
     </ul>
     <a href="https://github.com/ihsanmaullana/banking-app">
       <img src="https://img.shields.io/badge/View_Repo-blue?style=for-the-badge&logo=github" />
@@ -47,6 +48,13 @@
   </div>
 
 </div>
+
+---
+
+## 🧠 About Me  
+
+I'm a **Backend Engineer** specializing in **Fintech systems**, passionate about building **secure, high-performance financial applications** using **Java Spring Boot** and **Python**.  
+I also have a strong foundation in **AI & Machine Learning**, enabling me to develop **intelligent backend systems** such as fraud detection, transaction scoring, and risk analysis.
 
 ---
 
